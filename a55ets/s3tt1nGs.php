@@ -7,7 +7,7 @@ define("BRAND",true);
 define("MULTI",true);
 define("URL_SEPARATOR","/");
 define("URL_ENDING",".html");
-define("SR","/tiny/");
+define("SR","/");
 /*DO NOT PUT this to "true" on a live site, it will reveal important information to your visitors*/
 define("DEBUG",true);
 /*this is a MD5 Hash of the actual password, use online tools like http://www.md5hashgenerator.com to find it out.*/
