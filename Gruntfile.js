@@ -6,7 +6,7 @@ module.exports = function(grunt) {
         compress: {
             main: {
                 options: {
-                    archive: 'employeeservice.zip',
+                    archive: 'tinycms.zip',
                     pretty: true
                 },
                 expand: true,
